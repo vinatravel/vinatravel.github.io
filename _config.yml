@@ -9,6 +9,8 @@
 title: VINA TRAVEL (SAN FRANCISCO)
 email: thereseloan@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
+ 414 Clement St # 5, San Francisco, CA 94118
+url: "https://www.google.com/maps/place/Vina+Travel/@37.7832066,-122.4639217,15z/data=!4m2!3m1!1s0x0:0x225448a3418f01a1?sa=X&ved=0ahUKEwjEu7r6wvvVAhXijFQKHeeiBOUQ_BIIazAK" # the base hostname & protocol for your site
   
 
 
