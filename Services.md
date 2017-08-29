@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Services
+permalink: /services/
 ---
 
 ### service 1
